@@ -10,7 +10,7 @@ Blender 4.3+ (GPv3)
 Mischief import requires [art2png binary](https://github.com/memileo/mischief-re-swift) (Select path to the binary in the N-panel or Preferences.)
 
 ### Usage:
-**File --> Import --> Mischief/Rnote:** Imports with current settings.
+**File —> Import —> Mischief/Rnote:** Imports with current settings.
 
 **Drag and drop:** Imports with current settings.
 
