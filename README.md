@@ -1,16 +1,19 @@
 #### AI Disclaimer: In large part copy-paste coded with various LLMs.
 
-![[mischief_gp_importer logga_21-256.png]]
+<img width="256" height="256" alt="mischief_gp_importer logo" src="https://github.com/user-attachments/assets/997a21b8-9b56-4709-bfdb-81510a3521ef" />
+
 # mischief_gp_importer
 
 Grease Pencil importer for Mischief (.art) files and Rnote (.rnote) files.
 ### Requirements
 Blender 4.3+ (GPv3)
-Mischief import requires [art2png binary]() (Select path to the binary in the N-panel or Preferences.)
+Mischief import requires [art2png binary](https://github.com/memileo/mischief-re-swift) (Select path to the binary in the N-panel or Preferences.)
 
 ### Usage:
 **File --> Import --> Mischief/Rnote:** Imports with current settings.
+
 **Drag and drop:** Imports with current settings.
+
 **N-panel GP Importer category:** Set import settings and import.
 
 ### Notes:
