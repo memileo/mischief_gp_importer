@@ -21,7 +21,7 @@ Can import brush strokes, layers. Pencil strokes have their own material so you 
 
 Layers containing eraser brush strokes relies on what might be a bug: and are set to 0.99999 opacity for correct compositing. When set to 1.0 it erase/hold-out blends all layers below instead of only content on the layer itself.
 
-All imported objects share the same materials and is overwritten with default values when importing another object. Rename the materials if you need to keep them separate.
+All imported objects share the same materials and are overwritten with default values when importing another object. Rename the materials if you need to keep them separate.
 
 ### Issues/missing:
 Polygon lines, rectangle, ellipses and embedded images are not supported.
