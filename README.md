@@ -1,6 +1,7 @@
 #### AI Disclaimer: In large part copy-paste coded with various LLMs.
-
+<picture>
 <img width="256" height="256" alt="mischief_gp_importer logo" src="https://github.com/user-attachments/assets/997a21b8-9b56-4709-bfdb-81510a3521ef" />
+</picture>
 
 # mischief_gp_importer
 
